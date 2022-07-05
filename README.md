@@ -25,3 +25,4 @@ https://www.linkedin.com/in/amit-dube-अमित-दुबे-40b6351a
 
 ## Documentation for terraform code validation
 - https://learn.hashicorp.com/tutorials/terraform/custom-conditions?in=terraform/configuration-language
+- https://www.terraform.io/language/expressions/custom-conditions
