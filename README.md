@@ -8,7 +8,7 @@ With over 13 years of IT experience and more than 2 years around Infra coding, A
 https://www.linkedin.com/in/amit-dube-अमित-दुबे-40b6351a
 
 
-## Documentation terrform automation testing
+## Documentation for terrform automation testing
 
 ### Static Code Static
 - https://github.com/aquasecurity/tfsec
@@ -23,5 +23,5 @@ https://www.linkedin.com/in/amit-dube-अमित-दुबे-40b6351a
 - https://github.com/amitkumardube/kitchen-terraform
 - https://github.com/amitkumardube/terraform-testing 
 
-## documentation for terraform code validation
+## Documentation for terraform code validation
 - https://learn.hashicorp.com/tutorials/terraform/custom-conditions?in=terraform/configuration-language
